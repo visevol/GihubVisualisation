@@ -1,4 +1,4 @@
-require 'benchmark'
+require "benchmark"
 
 namespace :repositories do
   desc <<~DESCRIPTION
